@@ -4,6 +4,7 @@ import { getImageUrl } from "../../utils";
 import { useState } from "react";
 
 
+
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
