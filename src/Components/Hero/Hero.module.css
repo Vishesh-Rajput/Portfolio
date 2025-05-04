@@ -124,6 +124,7 @@
     animation-timing-function: ease-in-out; */
 }
 
+
 .bodycard{
    color: var(--color-text);
    background-color: var(--color-bg);

@@ -10,26 +10,36 @@ export const Hero = () => {
       
     
       <div className={styles.content}>
-      <TypeAnimation
-      sequence={[
-        // Same substring at the start will only be typed out once, initially
-        'Greetings! ',
-        1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'Welcome to my dev space.',
-        1000,
-        'Great to see you!',
-        1000,
-  
-      ]}
-      wrapper="span"
-      speed={50}
-      style={{ fontSize: '3em', display: 'inline-block' }}
-      repeat={Infinity}
-    />
+      <span style={{ fontSize: '3em' }}>
+     
+  Let's{' '}
+  <TypeAnimation
+    sequence={[
+      'Connect.',
+      1100,
+      'Create.',
+      1100,
+      'Grow Together.',
+      1100,
+    ]}
+    wrapper="span"
+    speed={40}
+    style={{ fontWeight: 'bold', display: 'inline-block' }}
+    repeat={Infinity}
+  />
+</span>
+
         {/* <h1 className={styles.title}>hello i'm Vishesh </h1> */}
         <p className={styles.text}>
           <br/>
-          I’m Vishesh Rajput,
+          Greatings !!  I’m <span style={{
+  background: 'linear-gradient(90deg, #a855f7, #f43f5e)',
+  WebkitBackgroundClip: 'text',
+  WebkitTextFillColor: 'transparent',
+  fontWeight: 'bold'
+}}>
+  Vishesh Singh Rajput
+</span>,
 a full-stack Web developer who loves solving real-world problems through code.
 I work with the PERN stack, and also have solid experience in C++ and Java.
 Feel free to explore my work and see what I’ve been building!
@@ -65,6 +75,7 @@ Feel free to explore my work and see what I’ve been building!
           </div>
         </div> */}
       </div>
+
       <img
         src={getImageUrl("hero/nobg.png")}
         alt="Hero image"
@@ -76,6 +87,7 @@ Feel free to explore my work and see what I’ve been building!
       <div className={styles.bottomBlur}>
         <h1>2</h1>
       </div>
+      
     </section>
   );
 };

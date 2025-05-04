@@ -41,6 +41,10 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }

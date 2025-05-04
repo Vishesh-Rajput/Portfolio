@@ -27,10 +27,9 @@ export const About = () => {
         <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
 
             <div className={styles.aboutItemText}>
-              <h3>Full-stack Developer</h3><br />
+              <h3>Full-stack Web Developer</h3><br />
               <p>
-              Full-stack web developer crafting clean UIs with HTML, CSS, JavaScript, and React — while exploring Node.js, Express, and databases to build efficient backend systems. Always learning and solving real-world problems.
-
+              PERN Full- stack web developer specializing in clean UIs with React, Node.js, Express, and PostgreSQL. Always learning and solving real-world problems.
 </p>
             </div>
           </li>
