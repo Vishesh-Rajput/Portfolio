@@ -50,7 +50,7 @@ Feel free to explore my work and see what I’ve been building!
           
         </button>
         
-       <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer">
+       <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer"> 
       <button className={styles.btn}>    Resume    </button>
       </a>
       
