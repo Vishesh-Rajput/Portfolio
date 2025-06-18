@@ -43,7 +43,13 @@ export const About = () => {
             </div>
           </li>
         </ul>
+        
       </div>
+      <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <button className={styles.button} >
+          Resume
+        </button>
+      </a>
     </section>
   );
 };

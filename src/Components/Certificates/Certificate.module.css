@@ -1,1 +1,33 @@
+.certificateSection {
+    width: 80%;
+    margin: 0 auto;
+    padding: 60px 0;
+    text-align: center;
+  }
+  
+  .animatedHeading {
+    font-size: 40px;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 30px;
+    position: relative;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+ .carousel .slide img {
+  border-radius: 1rem;
+  transition: transform 0.5s ease;
+}
 
+.carousel .slide:hover img {
+  transform: scale(1.03);
+}
+
+.carousel .legend {
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 0.5rem;
+}
+
+  

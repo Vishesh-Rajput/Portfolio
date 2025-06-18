@@ -40,42 +40,23 @@ export const Hero = () => {
 }}>
   Vishesh Singh Rajput
 </span>,
-a full-stack Web developer who loves solving real-world problems through code.
-I work with the PERN stack, and also have solid experience in C++ and Java.
+a curious and creative software engineer who loves to learn — always looking for the next challenge to grow and build better.
+ I work with the PERN web full stack, and also have solid experience in C++ and Java.
 Feel free to explore my work and see what I’ve been building!
         </p>
-        <button className={styles.btn} onClick={() => window.location.href = 'mailto:someone@example.com'} >
-          Contact me 
+       <div className={styles.btnContainer}>
+         <button className={styles.btn} onClick={() => window.location.href = 'mailto:vishesh.rajput.p@gmail.com'} >
+          Contact me
+          
         </button>
-        {/* <p class="d-inline-flex gap-1">
-          <div className="contact-div">
-            <a
-              class="btn btn-primary"
-              data-bs-toggle="collapse"
-              href="#collapseExample"
-              role="button"
-              aria-expanded="false"
-              aria-controls="collapseExample"
-            >
-              Contact Me
-            </a>
-          </div>
-        </p> */}
-        {/* <div class="collapse" id="collapseExample">
-          <div className={`card card-body ${styles.bodycard} `}>
-            <a href="mailto:vishesh.rajput.p@gmail.com">Email:</a>{" "}
-            <p>vishesh.rajput.p@gmail.com </p>
-            <a
-              href="https://www.linkedin.com/in/vishesh-rajput/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              linkedin:
-            </a>
-          </div>
-        </div> */}
+        
+       <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer">
+      <button className={styles.btn}>    Resume    </button>
+      </a>
+      
+        </div>
+        
       </div>
-
       <img
         src={getImageUrl("hero/nobg.png")}
         alt="Hero image"
@@ -86,6 +67,8 @@ Feel free to explore my work and see what I’ve been building!
       </div>
       <div className={styles.bottomBlur}>
         <h1>2</h1>
+
+
       </div>
       
     </section>

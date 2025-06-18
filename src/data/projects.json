@@ -1,63 +1,63 @@
 [
   {
-    "title": "SARTHI: All-in-One Travel Guide",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Javascript", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": " Rebuy: Refurbished Goods Marketplace",
+    "imageSrc": "projects/rebuy.png",
+    "description": "Rebuy marketplace for refurbished goods with auth, product listings, bidding, and admin controls — backend and React focused.",
+    "skills": ["React js", "Express js", "Node js", "Mongo Db"],
+    "demo": "https://github.com/Vishesh-Rajput/Rebuy",
+    "source": "https://github.com/Vishesh-Rajput/Rebuy"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Personal portfolio website showcasing my projects and skills, aimed at demonstrating my skills in React.",
+    "skills": ["React js", "JavaScript", "Deployment"],
+    "demo": "https://github.com/Vishesh-Rajput/Portfolio.git",
+    "source": "https://github.com/Vishesh-Rajput/Portfolio.git"
+  },
+  {
+    "title": "SARTHI: All-in-One Travel Guide",
+    "imageSrc": "projects/website.png",
+    "description": "prototype developed for the SIH Hackathon, aiming to unify all travel-related services",
+    "skills": ["Javascript", "Express js", "Node js"],
+    "demo": "https://youtu.be/Fq_4EEOkx3k",
+    "source": "https://github.com/Vishesh-Rajput/travel_site-main.git"
+  },
+  {
+    "title": "Exam Seating Arrangement in Java",
+    "imageSrc": "projects/examseating.png",
+    "description": "Java-based tool for managing student exam seating efficiently.",
+    "skills": ["Java"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Vishesh-Rajput/exam-seating.git"
   }
   ,
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "DENTAL-OASIS",
+    "imageSrc": "projects/dentition.png",
+    "description": "Static web-app developed and deployed for Microsoft Virtual using Azure.",
+    "skills": ["HTML", "CSS", "JavaScript", "Azure"],
+    "demo": "https://mohitsahu5649.github.io/DENTAL-OASIS-2/",
+    "source": "https://github.com/Vishesh-Rajput/DENTAL-OASIS-2.git"
   }
   ,
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Blog Website",
+    "imageSrc": "projects/blog.png",
+    "description": "This is a project made to learn to perform CRUD operations using Node.js and Express.js.",
+    "skills": ["Javascript", "Express js", "Node js"],
+    "demo": "https://private-user-images.githubusercontent.com/131992385/425811484-6488d7ba-0d8e-489e-b88a-4c7a35a9b06c.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3NDA0ODksIm5iZiI6MTc0OTc0MDE4OSwicGF0aCI6Ii8xMzE5OTIzODUvNDI1ODExNDg0LTY0ODhkN2JhLTBkOGUtNDg5ZS1iODhhLTRjN2EzNWE5YjA2Yy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMlQxNDU2MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTQxMDBiMjQ2MzFhMmY1ZDY3MmI4ZWUzYjNiNjU5MmZiMjljYWFhNmQ4Y2FiODQ0YjFmZTM0MjFjM2Q4NTc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EW0NTqb_hfRyfpj131AgPW3qC_wCtsGWmxVj8NzlNwA",
+    "source": "https://github.com/Vishesh-Rajput/Blog-API-DIY.git"
   }
   ,
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Family Travel Tracker",
+    "imageSrc": "projects/world.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["PostgreSQL", "Express js", "Node js"],
+    "demo": "https://github.com/Vishesh-Rajput/Family-Travel-Tracker/blob/main/README.md",
+    "source": "https://github.com/Vishesh-Rajput/Family-Travel-Tracker/blob/main/README.md"
   }
-  ,
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  }
-  ,
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  }
+  
+  
 ]
