@@ -8,7 +8,6 @@ import { About } from './Components/About/About'
 import { Experience } from './Components/Experience/Experience'
 import { Projects } from './Components/Projects/Project'
 import { Contact } from './Components/Contact/Contact'
-import { Cards } from './Components/cards/cards'
 import Certificate from './Components/Certificates/Certificate'
 function App() {
 
