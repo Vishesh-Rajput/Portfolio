@@ -4,18 +4,22 @@
     color: var(--color-text);
     margin-top: 120px;
     background-color: var(--color-secondary);
-    display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+     display: flex; 
+    justify-content: space-between;
     width: 100vw;
-    padding: 58px 10%;
+    padding: 58px 58px 58px 0 ;
     gap: 10px;
+   
+  
 }
+
 
 .text h2 {
     font-size: 80px;
     font-weight: 700;
     letter-spacing: 4px;
+    
 }
 
 .text p {
@@ -45,6 +49,7 @@
     font-weight: 400;
     letter-spacing: 1.5px;
 }
+
 
 
 @media screen and (max-width: 830px) {

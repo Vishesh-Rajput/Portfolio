@@ -31,6 +31,7 @@ export const Contact = () => {
           <a href="https://github.com/Vishesh-Rajput">github.com/Vishesh-Rajput</a>
         </li>
       </ul>
+
     </footer>
   );
 };

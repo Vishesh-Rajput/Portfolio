@@ -23,7 +23,7 @@ export const Experience = () => {
           })}
         </div>
         <ul className={styles.history}>
-        <h2 className={styles.title}>Work Experience</h2>
+        <h2 className={styles.title}>Experience</h2>
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>

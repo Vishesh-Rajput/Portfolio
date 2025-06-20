@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Programmer </h3><br />
               <p>
-               A curious programmer skilled in C, C++, Java (basic), and JavaScript, driven by the thrill of debugging and solving complex problems.
+               A inquisitive  programmer skilled in C, C++, Java (basic), and JavaScript, driven by the thrill of debugging and solving complex problems.
               </p>
             </div>
           </li>

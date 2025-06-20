@@ -40,9 +40,8 @@ export const Hero = () => {
 }}>
   Vishesh Singh Rajput
 </span>,
-a curious and creative software engineer who loves to learn — always looking for the next challenge to grow and build better.
- I work with the PERN web full stack, and also have solid experience in C++ and Java.
-Feel free to explore my work and see what I’ve been building!
+a curious and creative software engineering student who's always curious and enjoys getting creative with learning.
+
         </p>
        <div className={styles.btnContainer}>
          <button className={styles.btn} onClick={() => window.location.href = 'mailto:vishesh.rajput.p@gmail.com'} >
@@ -58,7 +57,7 @@ Feel free to explore my work and see what I’ve been building!
         
       </div>
       <img
-        src={getImageUrl("hero/nobg.png")}
+        src={getImageUrl("hero/flip.png")}
         alt="Hero image"
         className={styles.img}
       />
