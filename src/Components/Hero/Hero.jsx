@@ -12,7 +12,7 @@ export const Hero = () => {
       <div className={styles.content}>
       <span style={{ fontSize: '3em' }}>
      
-  Let's{' '}
+  L's{' '}
   <TypeAnimation
     sequence={[
       'Connect.',
