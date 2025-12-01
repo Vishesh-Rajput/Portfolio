@@ -49,7 +49,7 @@ a curious and creative software engineering student who's always curious and enj
           
         </button>
         
-       <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer"> 
+       <a href="/assets/Resume_ATS.pdf" target="_blank" rel="noopener noreferrer"> 
       <button className={styles.btn}>    Resume    </button>
       </a>
       
